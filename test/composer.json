@@ -1,0 +1,10 @@
+{
+  "name": "georgianamarian/test",
+  "type": "project",
+  "require": {} ,
+  "autoload": {
+    "psr-4": {
+      "Acme\\": "src/"
+    }
+  }
+}
